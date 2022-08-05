@@ -1,0 +1,22 @@
+{
+  "name": "CJGNetWorking",
+  "version": "0.1.0",
+  "summary": "A short description of CJGNetWorking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MackolChen/CJGNetWorking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MackolChen": "chenjg@tiens.com"
+  },
+  "source": {
+    "git": "https://github.com/MackolChen/CJGNetWorking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CJGNetWorking/Classes/**/*"
+}

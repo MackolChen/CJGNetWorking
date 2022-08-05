@@ -1,0 +1,16 @@
+PODS:
+  - CJGNetWorking (0.1.0)
+
+DEPENDENCIES:
+  - CJGNetWorking (from `../`)
+
+EXTERNAL SOURCES:
+  CJGNetWorking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CJGNetWorking: 2423e7e204d68da1e2d883b1c319a8bfde6ab181
+
+PODFILE CHECKSUM: 63d72ddd632471d2f0844a89e45c101a3e423bc8
+
+COCOAPODS: 1.11.3

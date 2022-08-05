@@ -1,0 +1,6 @@
+framework module Pods_CJGNetWorking_Tests {
+  umbrella header "Pods-CJGNetWorking_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
